@@ -17,7 +17,7 @@ f) Crie um método para imprimir os dados  para o usuário.
 g) Construa um programa para testar a classe Veiculo.
 
 
-2) Crie a classe CarroPasseio usando a classe Veiculo como base. Inclua Cor(Literal) e Modelo(Literal). 
+2 Crie a classe CarroPasseio usando a classe Veiculo como base. Inclua Cor(Literal) e Modelo(Literal). 
 
 a) Crie um construtor que inicialize os dados com zero e “”..
 
